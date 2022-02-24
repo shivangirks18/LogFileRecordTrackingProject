@@ -49,5 +49,8 @@ mvn compile
 mvn clean install
 
 4.) A target folder will be created in the project. From this folder run below command to make the execution of project successful-
-java -jar <name of jar> <path of logfile.txt>
+java -jar name_of_jar.jar path_of_logfile.txt
+
+
+
 
